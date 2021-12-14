@@ -1,4 +1,4 @@
-package com.revature;
+package com.revature.week1;
 
 import com.revature.codingchallenge.week1.LookAndSay;
 import org.junit.jupiter.api.Assertions;
